@@ -1,6 +1,6 @@
 # algo_trading
 The purpose of this project is to evaluate two popular trading strategies on SPDR Portfolio Long Term Treasury ETF (SPTL), which is an ETF that tracks the performance of US Treasury bonds with maturities 10 years and more. Alongside Effective Fed Funds Rate (EFFR Index) data, which mirrors the FED’s monetary policy, and the use performance metrics, the study aims to understand the efficacy of the strategies. The trading strategies are chosen to reflect the interest rate hiking cycle during the year 2023, where central banks implemented a series of hikes to combat rising inflation. Considering the significant impact of aggressive policy on bond prices, the selected strategies are closely related to interest rate movements.
 
-### Pre
-V_0 = $ 100,000
+#### Prerequisites
+$V_0$ = $ 100,000
 L = 10
